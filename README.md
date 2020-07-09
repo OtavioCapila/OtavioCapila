@@ -7,3 +7,4 @@
 
 - **⚙️ Techs: `JavaScript`, `TypeScript`, `Node.js`, `React.js`, `Docker`, `K8S`**
 - **🌍 Website: https://iam.otaviocapila.dev**
+- **💬 Ask me about: tech, memes**
