@@ -6,7 +6,7 @@
 
 #### Software Developer - Living in Brazil
 
-- **⚙️ Techs: `JavaScript`, `TypeScript`, `Node.js`, `React.js`, `Docker`, `K8S`**
+<img src="https://img.shields.io/badge/Tech-Javascript-yellow?style=for-the-badge&logo=javascript" /> <img src="https://img.shields.io/badge/Tech-Typescript-blue?style=for-the-badge&logo=typescript" /> <img src="https://img.shields.io/badge/Tech-React-purple?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Tech-ReactNative-purple?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Tech-Docker-gray?style=for-the-badge&logo=docker" /> <img src="https://img.shields.io/badge/Tech-Kubernetes-gray?style=for-the-badge&logo=kubernetes" />
 - **🌍 Website: https://iam.otaviocapila.dev**
 - **💬 Ask me about: tech, memes**
 
