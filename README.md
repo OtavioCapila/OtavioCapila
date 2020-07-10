@@ -9,3 +9,6 @@
 - **⚙️ Techs: `JavaScript`, `TypeScript`, `Node.js`, `React.js`, `Docker`, `K8S`**
 - **🌍 Website: https://iam.otaviocapila.dev**
 - **💬 Ask me about: tech, memes**
+
+### Visitors
+![visitors](https://visitor-badge.glitch.me/badge?page_id=OtavioCapila.OtavioCapila)
