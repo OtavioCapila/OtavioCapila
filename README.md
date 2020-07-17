@@ -9,5 +9,3 @@
 
 - Techs i'm working with: `React.JS`,`JS`,`TS`,`Node.Js`,`Docker`,`K8S`, `AWS`
 
-### Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=OtavioCapila.OtavioCapila)
