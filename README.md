@@ -9,10 +9,11 @@
 
 - Techs i'm working with: `React.JS`,`JS`,`TS`,`Node.Js`,`Docker`,`K8S`, `AWS`
 
+#### :clipboard: My profile stats
 ![OtavioCapila's github stats](https://github-readme-stats.vercel.app/api?username=otaviocapila&show_icons=true&theme=dracula)
 
-#### Top Languages
+#### :bar_chart: Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocapila&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Pinned Repositories
+#### :pushpin: Pinned repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=otaviocapila&repo=saudadesbot&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
