@@ -5,8 +5,11 @@
 [![Sourcerer Badge](https://img.shields.io/badge/Sourcerer-otaviocapila-yellowgreen?style=flat-square)](https://sourcerer.io/otaviocapila)
 [![Codewars Badge](https://www.codewars.com/users/OtavioCapila/badges/micro)](https://www.codewars.com/users/OtavioCapila/badges/micro)
 
-
 #### Software Engineer
 
 - Techs i'm working with: `React.JS`,`JS`,`TS`,`Node.Js`,`Docker`,`K8S`, `AWS`
+
+![OtavioCapila's github stats](https://github-readme-stats.vercel.app/api?username=otaviocapila&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocapila)](https://github.com/anuraghazra/github-readme-stats)
 
