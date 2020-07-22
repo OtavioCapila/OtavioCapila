@@ -11,6 +11,7 @@
 
 #### :clipboard: My profile stats
 ![OtavioCapila's github stats](https://github-readme-stats.vercel.app/api?username=otaviocapila&show_icons=true&theme=dracula)
+> Check my [sourcerer profile](https://sourcerer.io/otaviocapila) to view full status
 
 #### :bar_chart: Top languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocapila&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
