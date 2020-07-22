@@ -9,7 +9,10 @@
 
 - Techs i'm working with: `React.JS`,`JS`,`TS`,`Node.Js`,`Docker`,`K8S`, `AWS`
 
-![OtavioCapila's github stats](https://github-readme-stats.vercel.app/api?username=otaviocapila&show_icons=true&theme=radical)
+![OtavioCapila's github stats](https://github-readme-stats.vercel.app/api?username=otaviocapila&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocapila)](https://github.com/anuraghazra/github-readme-stats)
+#### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocapila&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+#### Pinned Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=otaviocapila&repo=saudadesbot&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
