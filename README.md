@@ -17,4 +17,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=otaviocapila&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :pushpin: Pinned repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=otaviocapila&repo=saudadesbot&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=otaviocapila&repo=saudadesbot&show_owner=true&theme=dracula)](https://github.com/OtavioCapila/SaudadesBot)
